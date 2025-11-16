@@ -1,0 +1,19 @@
+{
+  "first_name": "John",
+  "last_name": "Doe",
+  "email": "john.doe@example.com",
+  "phone": "555-123-4567",
+  "appointment_type": "Oil Change",
+  "preferred_date": "2025-02-15",
+  "preferred_time": "10:00",
+  "vehicle_make": "Toyota",
+  "vehicle_model": "Camry",
+  "vehicle_year": "2020",
+  "vehicle_vin": "1HGBH41JXMN109186",
+  "license_plate": "ABC1234",
+  "notes": "Please check tire pressure as well",
+  "address": "123 Main Street",
+  "city": "San Francisco",
+  "state": "CA",
+  "zip_code": "94102"
+}

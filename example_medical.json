@@ -1,0 +1,14 @@
+{
+  "first_name": "Jane",
+  "last_name": "Smith",
+  "email": "jane.smith@example.com",
+  "phone": "555-987-6543",
+  "appointment_type": "Annual Checkup",
+  "preferred_date": "2025-03-01",
+  "preferred_time": "14:00",
+  "notes": "First visit, need general physical examination",
+  "address": "456 Oak Avenue",
+  "city": "Los Angeles",
+  "state": "CA",
+  "zip_code": "90001"
+}
